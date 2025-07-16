@@ -21,37 +21,7 @@ Este projeto aborda as seguintes etapas:
   - **Validação Cruzada (StratifiedKFold)**: 80% treino, 20% validação rotacionados em 5 folds.
 - Comparação entre as duas estratégias de divisão para entender impactos no pipeline de machine learning.
 
-## 📝 Como Executar
 
-1. Clone o repositório:
+##📊 Desenvolvido por Gláuber Lopes Bomtempo
 
-```bash
-git clone https://github.com/SEU_USUARIO/7daysofcode3.git
 
-2. Instale as bibliotecas necessárias:
-pip install pandas numpy matplotlib seaborn scikit-learn
-
-3. Execute o notebook 7daysofcode3.ipynb no ambiente de sua preferência (Jupyter Notebook, Jupyter Lab, Databricks, Google Colab).
-
-📂 Estrutura do Repositório
-bash
-Copiar
-Editar
-
-🚩 Reflexões Finais
-Neste desafio, foram realizadas análises importantes sobre divisão de dados:
-
-A divisão fixa permite uma separação clara para validação final.
-
-A validação cruzada oferece maior robustez para avaliação de modelos durante o processo de treino.
-
-Para fases futuras, o foco será testar modelos (Árvore de Classificação, Floresta Aleatória, XGBoost) utilizando estas estratégias de treino/validação.
-
-📢 Observação
-Este projeto é parte do desafio educacional #7DaysOfCode proposto pela Alura, com objetivo didático para reforçar conceitos práticos de Machine Learning.
-
-📊 Desenvolvido por Gláuber Lopes Bomtempo
-
-go
-Copiar
-Editar
